@@ -1,0 +1,70 @@
+{
+  "employees": [
+    {
+      "name": "Burak Toker",
+      "department": "Arge",
+      "salary": 7500,
+      "id": 1
+    },
+    {
+      "name": "Osman Ünal",
+      "department": "IT",
+      "salary": 6000,
+      "id": 2
+    },
+    {
+      "name": "Personel",
+      "department": "Arge",
+      "salary": 5000,
+      "id": 4
+    },
+    {
+      "name": "Güncellenen Personel",
+      "department": "IT",
+      "salary": 3000,
+      "id": 5
+    },
+    {
+      "name": "Personel",
+      "department": "Arge",
+      "salary": 5000,
+      "id": 6
+    },
+    {
+      "name": "Personel",
+      "department": "Arge",
+      "salary": 5000,
+      "id": 7
+    },
+    {
+      "name": "Personel",
+      "department": "Arge",
+      "salary": 5000,
+      "id": 8
+    },
+    {
+      "name": "Personel",
+      "department": "Arge",
+      "salary": 5000,
+      "id": 9
+    },
+    {
+      "name": "Personel",
+      "department": "Arge",
+      "salary": 5000,
+      "id": 10
+    },
+    {
+      "name": "Personel",
+      "department": "Arge",
+      "salary": 5000,
+      "id": 11
+    },
+    {
+      "name": "Personel",
+      "department": "Arge",
+      "salary": 5000,
+      "id": 12
+    }
+  ]
+}
